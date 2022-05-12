@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  PingAddDevice
+
+  
+*/
+
+"device_type_name_router" = "Router";
+"device_type_name_leakSensor" = "Leak sensor";
+"device_type_name_lock" = "Lock";
+"device_type_name_co2Sensor" = "CO2 Sensor";
+"device_type_name_climateControl" = "Climate control";
+"device_type_name_camera" = "Camera";
+"device_type_name_smartBulb" = "Smart Bulb";
+"device_type_name_wallSwitch" = "Switch";
+"device_type_name_other" = "Other";
+
+/* Buttons */
+"button_continue" = "Continue";
+
+/* Titles */
+"add_new_device_title" = "Add new device";
+"add_new_device_step_title_success" = "Success";
+"add_new_device_step_counter" = "Step %@ of %@";
